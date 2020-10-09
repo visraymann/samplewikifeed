@@ -1,0 +1,510 @@
+'''Verse : 1'''
+
+gheraṇḍa uvāca |1|
+mahāmudrā nabhomudrā uḍḍīyānaṃ jalaṃdharam |2|
+mūlabandhaṃ mahābandhaṃ mahāvedhaś ca khecarī ||3||
+
+'''Verse : 2'''
+
+viparītakaraṇī yonir vajrolī śakticālanī |1|
+taḍāgī māṇḍukī mudrā śāmbhavī pañcadhāraṇā ||2||
+
+'''Verse : 3'''
+
+aśvinī pāśinī kākī mātaṃgī ca bhujaṅginī |1|
+pañcaviṃśatimudrāś ca siddhidā iha yoginām ||2||
+
+'''Verse : 4'''
+
+mudrāṇāṃ paṭalaṃ devi kathitaṃ tava saṃnidhau |1|
+yena vijñātamātreṇa sarvasiddhiḥ prajāyate ||2||
+
+'''Verse : 5'''
+
+gopanīyaṃ prayatnena na deyaṃ yasya kasyacit |1|
+prītidaṃ yogināṃ caiva durlabhaṃ marutām api ||2||
+
+'''Verse : 6'''
+
+pāyumūlaṃ vāmagulphe saṃpīḍya dṛḍhayatnataḥ |1|
+yāmyapādaṃ prasāryātha karābhyāṃ dhṛtapadāṅguliḥ ||2||
+
+'''Verse : 7'''
+
+kaṇṭhasaṃkocanaṃ kṛtvā bhruvor madhye nirīkṣayet |1|
+pūrakair vāyuṃ sampūrya mahāmudrā nigadyate ||2||
+
+'''Verse : 8'''
+
+valitaṃ palitaṃ caiva jarāṃ mṛtyuṃ nivārayet |1|
+kṣayakāsaṃ gudāvartaṃ plīhājīrṇaṃ jvaraṃ tathā |2|
+nāśayet sarvarogāṃś ca mahāmudrābhisevanāt ||3||
+
+'''Verse : 9'''
+
+yatra yatra sthito yogī sarvakāryeṣu sarvadā |1|
+ūrdhvajihvaḥ sthiro bhūtvā dhārayet pavanaṃ sadā |2|
+nabhomudrā bhaved eṣā yogināṃ roganāśinī ||3||
+
+'''Verse : 10'''
+
+udare paścimaṃ tānaṃ nābher ūrdhvaṃ tu kārayet |1|
+uḍḍīnaṃ kurute yasmād aviśrāntaṃ mahākhagaḥ |2|
+uḍḍīyānaṃ tv asau bandho mṛtyumātaṃgakesarī ||3||
+
+'''Verse : 11'''
+
+samagrād bandhanāddhy etad uḍḍīyānaṃ viśiṣyate |1|
+uḍḍīyāne samabhyaste muktiḥ svābhāvikī bhavet ||2||
+
+'''Verse : 12'''
+
+kaṇṭhasaṃkocanaṃ kṛtvā cibukaṃ hṛdaye nyaset |1|
+jālaṃdhare kṛte bandhe ṣoḍaśādhārabandhanam |2|
+jālaṃdharamahāmudrā mṛtyoś ca kṣayakāriṇī ||3||
+
+'''Verse : 13'''
+
+siddhaṃ jālaṃdharaṃ bandhaṃ yogināṃ siddhidāyakam |1|
+ṣaṇmāsam abhyased yo hi sa siddho nātra saṃśayaḥ ||2||
+
+'''Verse : 14'''
+
+pārṣṇinā vāmapādasya yonim ākuñcayet tataḥ |1|
+nābhigranthiṃ merudaṇḍe saṃpīḍya yatnataḥ sudhīḥ ||2||
+
+'''Verse : 15'''
+
+meḍhraṃ dakṣiṇagulphena dṛḍhabandhaṃ samācaret |1|
+nābher ūrdhvam adhaś cāpi tānaṃ kuryāt prayatnataḥ |2|
+jarāvināśinī mudrā mūlabandho nigadyate ||3||
+
+'''Verse : 16'''
+
+saṃsārasāgaraṃ tartum abhilaṣati yaḥ pumān |1|
+virale sugupto bhūtvā mudrām etāṃ samabhyaset ||2||
+
+'''Verse : 17'''
+
+abhyāsād bandhanasyāsya marutsiddhir bhaved dhruvam |1|
+sādhayed yatnatas tarhi maunī tu vijitālasaḥ ||2||
+
+'''Verse : 18'''
+
+vāmapādasya gulphena pāyumūlaṃ nirodhayet |1|
+dakṣapādena tad gulphaṃ saṃpīḍya yatnataḥ sudhīḥ ||2||
+
+'''Verse : 19'''
+
+śanaiḥ śanaiś cālayet pārṣṇiṃ yonim ākuñcayec chanaiḥ |1|
+jālaṃdhare dhārayet prāṇaṃ mahābandho nigadyate ||2||
+
+'''Verse : 20'''
+
+mahābandhaḥ paro bandho jarāmaraṇanāśanaḥ |1|
+prasādād asya bandhasya sādhayet sarvavāñchitam ||2||
+
+'''Verse : 21'''
+
+rūpayauvanalāvaṇyaṃ nārīṇāṃ puruṣaṃ vinā |1|
+mūlabandhamahābandhau mahāvedhaṃ vinā tathā ||2||
+
+'''Verse : 22'''
+
+mahābandhaṃ samāsādya uḍḍānakumbhakaṃ caret |1|
+mahāvedhaḥ samākhyāto yogināṃ siddhidāyakaḥ ||2||
+
+'''Verse : 23'''
+
+mahābandhamūlabandhau mahāvedhasamanvitau |1|
+pratyahaṃ kurute yas tu sa yogī yogavittamaḥ ||2||
+
+'''Verse : 24'''
+
+na mṛtyuto bhayaṃ tasya na jarā tasya vidyate |1|
+gopanīyaḥ prayatnena vedho 'yaṃ yogipuṃgavaiḥ ||2||
+
+'''Verse : 25'''
+
+jihvādho nāḍīṃ saṃchitya rasanāṃ cālayet sadā |1|
+dohayen navanītena lauhayantreṇa karṣayet ||2||
+
+'''Verse : 26'''
+
+evaṃ nityaṃ samabhyāsāllambikā dīrghatāṃ vrajet |1|
+yāvad gacched bhruvor madhye tadā sidhyati khecarī ||2||
+
+'''Verse : 27'''
+
+rasanāṃ tālumadhye tu śanaiḥ śanaiḥ praveśayet |1|
+kapālakuhare jihvā praviṣṭā viparītagā |2|
+bhruvor madhye gatā dṛṣṭir mudrā bhavati khecarī ||3||
+
+'''Verse : 28'''
+
+na ca mūrchā kṣudhā tṛṣṇā naivālasyaṃ prajāyate |1|
+na ca rogo jarā mṛtyur devadehaṃ prapadyate ||2||
+
+'''Verse : 29'''
+
+na cāgnir dahate gātraṃ na śoṣayati mārutaḥ |1|
+na dehaṃ kledayanty āpo daṃśayen na bhujaṃgamaḥ ||2||
+
+'''Verse : 30'''
+
+lāvaṇyaṃ ca bhaved gātre samādhir jāyate dhruvam |1|
+kapālavaktrasaṃyoge rasanā rasam āpnuyāt ||2||
+
+'''Verse : 31'''
+
+nānāvidhisamudbhūtam ānandaṃ ca dine dine |1|
+ādau lavaṇakṣāraṃ ca tatas tiktakaṣāyakam ||2||
+
+'''Verse : 32'''
+
+navanītaṃ ghṛtaṃ kṣīraṃ dadhitakramadhūni ca |1|
+drākṣārasaṃ ca pīyūṣaṃ jāyate rasanodakam ||2||
+
+'''Verse : 33'''
+
+nābhimūle vaset sūryas tālumūle ca candramāḥ |1|
+amṛtaṃ grasate sūryas tato mṛtyuvaśo naraḥ ||2||
+
+'''Verse : 34'''
+
+ūrdhvaṃ ca yojayet sūryaṃ candraṃ ca adha ānayet |1|
+viparītakarī mudrā sarvatantreṣu gopitā ||2||
+
+'''Verse : 35'''
+
+bhūmau śiraś ca saṃsthāpya karayugmaṃ samāhitaḥ |1|
+ūrdhvapādaḥ sthiro bhūtvā viparītakarī matā ||2||
+
+'''Verse : 36'''
+
+mudreyaṃ sādhayen nityaṃ jarāṃ mṛtyuṃ ca nāśayet |1|
+sa siddhaḥ sarvalokeṣu pralaye 'pi na sīdati ||2||
+
+'''Verse : 37'''
+
+siddhāsanaṃ samāsādya karṇākṣināsikāmukham |1|
+aṅguṣṭhatarjanīmadhyānāmādibhiś ca dhārayet ||2||
+
+'''Verse : 38'''
+
+kākībhiḥ prāṇaṃ saṃkṛṣya apāne yojayet tataḥ |1|
+ṣaṭ cakrāṇi kramād dhṛtvā huṃhaṃsamanunā sudhīḥ ||2||
+
+'''Verse : 39'''
+
+caitanyam ānayed devīṃ nidritā yā bhujaṅginī |1|
+jīvena sahitāṃ śaktiṃ samutthāpya parāmbuje ||2||
+
+'''Verse : 40'''
+
+śaktimayaṃ svayaṃ bhūtvā paraṃ śivena saṃgamam |1|
+nānāsukhaṃ vihāraṃ ca cintayet paramaṃ sukham ||2||
+
+'''Verse : 41'''
+
+śivaśaktisamāyogād ekāntaṃ bhuvi bhāvayet |1|
+ānandamānaso bhūtvā ahaṃ brahmeti sambhavet ||2||
+
+'''Verse : 42'''
+
+yonimudrā parā gopyā devānām api durlabhā |1|
+sakṛt tadbhāvasaṃsiddhaḥ samādhisthaḥ sa eva hi ||2||
+
+'''Verse : 43'''
+
+brahmahā bhrūṇahā caiva surāpo gurutalpagaḥ |1|
+etaiḥ pāpair na lipyate yonimudrānibandhanāt ||2||
+
+'''Verse : 44'''
+
+yāni pāpāni ghorāṇi upapāpāni yāni ca |1|
+tāni sarvāṇi naśyanti yonimudrānibandhanāt |2|
+tasmād abhyasanaṃ kuryād yadi muktiṃ samicchati ||3||
+
+'''Verse : 45'''
+
+dharām avaṣṭabhya karadvayābhyām ūrdhvaṃ kṣipet pādayugaṃ śiraḥ khe |1|
+śaktiprabodhāya cirajīvanāya vajrolīmudrāṃ munayo vadanti ||2||
+
+'''Verse : 46'''
+
+ayaṃ yogo yogaśreṣṭho yogināṃ muktikāraṇam |1|
+ayaṃ hitaprado yogo yogināṃ siddhidāyakaḥ ||2||
+
+'''Verse : 47'''
+
+etad yogaprasādena bindusiddhir bhaved dhruvam |1|
+siddhe bindau mahāyatne kiṃ na sidhyati bhūtale ||2||
+
+'''Verse : 48'''
+
+bhogena mahatā yukto yadi mudrāṃ samācaret |1|
+tathāpi sakalā siddhis tasya bhavati niścitam ||2||
+
+'''Verse : 49'''
+
+mūlādhāre ātmaśaktiḥ kuṇḍalī paradevatā |1|
+śayitā bhujagākārā sārdhatrivalayānvitā ||2||
+
+'''Verse : 50'''
+
+yāvat sā nidritā dehe tāvaj jīvaḥ paśur yathā |1|
+jñānaṃ na jāyate tāvat koṭiyogaṃ samabhyaset ||2||
+
+'''Verse : 51'''
+
+udghāṭayet kavāṭaṃ ca yathā kuñcikayā haṭhāt |1|
+kuṇḍalinyāḥ prabodhena brahmadvāraṃ vibhedayet ||2||
+
+'''Verse : 52'''
+
+nābhiṃ bṛhad veṣṭanaṃ ca na ca nagnaṃ bahiḥ sthitam |1|
+gopanīyagṛhe sthitvā śakticālanam abhyaset ||2||
+
+'''Verse : 53'''
+
+vitastipramitaṃ dīrghaṃ vistāre caturaṅgulam |1|
+mṛdulaṃ dhavalaṃ sūkṣmaṃ veṣṭanāmbaralakṣaṇam |2|
+evam ambaram uktaṃ ca kaṭisūtreṇa yojayet ||3||
+
+'''Verse : 54'''
+
+bhasmanā gātrasaṃliptaṃ siddhāsanaṃ samācaret |1|
+nāsābhyāṃ prāṇam ākṛṣya apāne yojayed balāt ||2||
+
+'''Verse : 55'''
+
+tāvad ākuñcayed guhyaṃ śanair aśvinīmudrayā |1|
+yāvad gacchet suṣumṇāyāṃ vāyuḥ prakāśayeddhaṭhāt ||2||
+
+'''Verse : 56'''
+
+tāvad vāyuprabhedena kumbhikā ca bhujaṅginī |1|
+baddhaśvāsas tato bhūtvā ca ūrdhvamātraṃ prapadyate |2|
+śabdadvayaṃ phalaikaṃ tu yonimudrāṃ ca cālayet ||3||
+
+'''Verse : 57'''
+
+vinā śakticālanena yonimudrā na sidhyati |1|
+ādau cālanam abhyasya yonimudrāṃ samabhyaset ||2||
+
+'''Verse : 58'''
+
+iti te kathitaṃ caṇḍa prakāraṃ śakticālanam |1|
+gopanīyaṃ prayatnena dine dine samabhyaset ||2||
+
+'''Verse : 59'''
+
+mudreyaṃ paramā gopyā jarāmaraṇanāśinī |1|
+tasmād abhyasanaṃ kāryaṃ yogibhiḥ siddhikāṅkṣibhiḥ ||2||
+
+'''Verse : 60'''
+
+nityaṃ yo 'bhyasate yogī siddhis tasya kare sthitā |1|
+tasya vigrahasiddhiḥ syād rogāṇāṃ saṃkṣayo bhavet ||2||
+
+'''Verse : 61'''
+
+udare paścimaṃ tānaṃ kṛtvā ca taḍāgākṛti |1|
+taḍāgī sā parā mudrā jarāmṛtyuvināśinī ||2||
+
+'''Verse : 62'''
+
+mukhaṃ saṃmudritaṃ kṛtvā jihvāmūlaṃ pracālayet |1|
+śanair grased amṛtaṃ tan māṇḍukīṃ mudrikāṃ viduḥ ||2||
+
+'''Verse : 63'''
+
+valitaṃ palitaṃ naiva jāyate nityayauvanam |1|
+na keśe jāyate pāko yaḥ kuryān nityamāṇḍukīm ||2||
+
+'''Verse : 64'''
+
+netrāñjanaṃ samālokya ātmārāmaṃ nirīkṣayet |1|
+sā bhavec chāmbhavī mudrā sarvatantreṣu gopitā ||2||
+
+'''Verse : 65'''
+
+vedaśāstrapurāṇāni sāmānyagaṇikā iva |1|
+iyaṃ tu śāmbhavī mudrā guptā kulavadhūr iva ||2||
+
+'''Verse : 66'''
+
+sa eva ādināthaś ca sa ca nārāyaṇaḥ svayam |1|
+sa ca brahmā sṛṣṭikārī yo mudrāṃ vetti śāmbhavīm ||2||
+
+'''Verse : 67'''
+
+satyaṃ satyaṃ punaḥ satyaṃ satyam uktaṃ maheśvara |1|
+śāmbhavīṃ yo vijānīyāt sa ca brahma na cānyathā ||2||
+
+'''Verse : 68'''
+
+kathitā śāmbhavī mudrā śṛṇuṣva pañcadhāraṇām |1|
+dhāraṇāni samāsādya kiṃ na sidhyati bhūtale ||2||
+
+'''Verse : 69'''
+
+anena naradehena svargeṣu gamanāgamam |1|
+manogatir bhavet tasya khecaratvaṃ na cānyathā ||2||
+
+'''Verse : 70'''
+
+yat tattvaṃ haritāladeśaracitaṃ bhaumaṃ lakārānvitaṃ vedāsraṃ kamalāsanena sahitaṃ kṛtvā hṛdi sthāyinam |1|
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed eṣā stambhakarī sadā kṣitijayaṃ kuryād adhodhāraṇā ||2||
+
+'''Verse : 71'''
+
+pārthivīdhāraṇāmudrāṃ yaḥ karoti ca nityaśaḥ |1|
+mṛtyuṃjayaḥ svayaṃ so 'pi sa siddho vicared bhuvi ||2||
+
+'''Verse : 72'''
+
+śaṅkhendupratimaṃ ca kundadhavalaṃ tattvaṃ kilālaṃ śubhaṃ tat pīyūṣavakārabījasahitaṃ yuktaṃ sadā viṣṇunā |1|
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed eṣā duḥsahatāpapāpaharaṇī syād āmbhasī dhāraṇā ||2||
+
+'''Verse : 73'''
+
+āmbhasīṃ paramāṃ mudrāṃ yo jānāti sa yogavit |1|
+jale ca gabhīre ghore maraṇaṃ tasya no bhavet ||2||
+
+'''Verse : 74'''
+
+iyaṃ tu paramā mudrā gopanīyā prayatnataḥ |1|
+prakāśāt siddhihāniḥ syāt satyaṃ vacmi ca tattvataḥ ||2||
+
+'''Verse : 75'''
+
+yan nābhisthitam indragopasadṛśaṃ bījatrikoṇānvitaṃ tattvaṃ tejomayaṃ pradīptam aruṇaṃ rudreṇa yat siddhidam |1|
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed eṣā kālagabhīrabhītiharaṇī vaiśvānarī dhāraṇā ||2||
+
+'''Verse : 76'''
+
+pradīpte jvalite vahnau yadi patati sādhakaḥ |1|
+etanmudrāprasādena sa jīvati na mṛtyubhāk ||2||
+
+'''Verse : 77'''
+
+yad bhinnāñjanapuñjasaṃnibham idaṃ dhūmrāvabhāsaṃ paraṃ tattvaṃ sattvamayaṃ yakārasahitaṃ yatreśvaro devatā |1|
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed eṣā khe gamanaṃ karoti yamināṃ syād vāyavī dhāraṇā ||2||
+
+'''Verse : 78'''
+
+iyaṃ tu paramā mudrā jarāmṛtyuvināśinī |1|
+vāyunā mriyate nāpi khe ca gatipradāyinī ||2||
+
+'''Verse : 79'''
+
+śaṭhāya bhaktihīnāya na deyā yasya kasyacit |1|
+datte ca siddhihāniḥ syāt satyaṃ vacmi ca caṇḍa te ||2||
+
+'''Verse : 80'''
+
+yat sindhau varaśuddhavārisadṛśaṃ vyomaṃ paraṃ bhāsitaṃ tattvaṃ devasadāśivena sahitaṃ bījaṃ hakārānvitam |1|
+prāṇaṃ tatra vinīya pañcaghaṭikāś cittānvitaṃ dhārayed eṣā mokṣakavāṭabhedanakarī tu syān nabhodhāraṇā ||2||
+
+'''Verse : 81'''
+
+ākāśīdhāraṇāṃ mudrāṃ yo vetti sa ca yogavit |1|
+na mṛtyur jāyate tasya pralaye nāvasīdati ||2||
+
+'''Verse : 82'''
+
+ākuñcayed gudadvāraṃ prakāśayet punaḥ punaḥ |1|
+sā bhaved aśvinī mudrā śaktiprabodhakāriṇī ||2||
+
+'''Verse : 83'''
+
+aśvinī paramā mudrā guhyarogavināśinī |1|
+balapuṣṭikarī caiva akālamaraṇaṃ haret ||2||
+
+'''Verse : 84'''
+
+kaṇṭhapṛṣṭhe kṣipet pādau pāśavad dṛḍhabandhanam |1|
+sā eva pāśinī mudrā śaktiprabodhakāriṇī ||2||
+
+'''Verse : 85'''
+
+pāśinī mahatī mudrā balapuṣṭividhāyinī |1|
+sādhanīyā prayatnena sādhakaiḥ siddhikāṅkṣibhiḥ ||2||
+
+'''Verse : 86'''
+
+kākacañcuvad āsyena pibed vāyuṃ śanaiḥ śanaiḥ |1|
+kākī mudrā bhaved eṣā sarvarogavināśinī ||2||
+
+'''Verse : 87'''
+
+kākīmudrā parā mudrā sarvatantreṣu gopitā |1|
+asyāḥ prasādamātreṇa na rogī kākavad bhavet ||2||
+
+'''Verse : 88'''
+
+kaṇṭhamagnajale sthitvā nāsābhyāṃ jalam āharet |1|
+mukhān nirgamayet paścāt punar vaktreṇa cāharet ||2||
+
+'''Verse : 89'''
+
+nāsābhyāṃ recayet paścāt kuryād evaṃ punaḥ punaḥ |1|
+mātaṃginī parā mudrā jarāmṛtyuvināśinī ||2||
+
+'''Verse : 90'''
+
+virale nirjane deśe sthitvā caikāgramānasaḥ |1|
+kuryān mātaṃginīṃ mudrāṃ mātaṃga iva jāyate ||2||
+
+'''Verse : 91'''
+
+yatra yatra sthito yogī sukham atyantam aśnute |1|
+tasmāt sarvaprayatnena sādhayen mudrikāṃ parām ||2||
+
+'''Verse : 92'''
+
+vaktraṃ kiṃcit suprasārya cālinaṃ galayā pibet |1|
+sā bhaved bhujagī mudrā jarāmṛtyuvināśinī ||2||
+
+'''Verse : 93'''
+
+yāvac ca udare rogam ajīrṇādi viśeṣataḥ |1|
+tat sarvaṃ nāśayed āśu yatra mudrā bhujaṅginī ||2||
+
+'''Verse : 94'''
+
+idaṃ tu mudrāpaṭalaṃ kathitaṃ caṇḍa te śubham |1|
+vallabhaṃ sarvasiddhānāṃ jarāmaraṇanāśanam ||2||
+
+'''Verse : 95'''
+
+śaṭhāya bhaktihīnāya na deyaṃ yasya kasyacit |1|
+gopanīyaṃ prayatnena durlabhaṃ marutām api ||2||
+
+'''Verse : 96'''
+
+ṛjave śāntacittāya gurubhaktiparāya ca |1|
+kulīnāya pradātavyaṃ bhogamuktipradāyakam ||2||
+
+'''Verse : 97'''
+
+mudrāṇāṃ paṭalaṃ hy etat sarvavyādhivināśanam |1|
+nityam abhyāsaśīlasya jaṭharāgnivivardhanam ||2||
+
+'''Verse : 98'''
+
+na tasya jāyate mṛtyur nāsya jarādikaṃ tathā |1|
+nāgnijalabhayaṃ tasya vāyor api kuto bhayam ||2||
+
+'''Verse : 99'''
+
+kāsaḥ śvāsaḥ plīhā kuṣṭhaṃ śleṣmarogāś ca viṃśatiḥ |1|
+mudrāṇāṃ sādhanāc caiva vinaśyanti na saṃśayaḥ ||2||
+
+'''Verse : 100'''
+
+bahunā kim ihoktena sāraṃ vacmi ca caṇḍa te |1|
+nāsti mudrāsamaṃ kiṃcit siddhidaṃ kṣitimaṇḍale ||2||
+
