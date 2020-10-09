@@ -1,12 +1,10 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.PrintStream;
-import java.io.UnsupportedEncodingException;
-import java.nio.charset.Charset;
+import java.io.PrintWriter;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -19,106 +17,92 @@ import java.util.TreeMap;
 
 public class StringParser {
 
-	public static void main(String args[]) throws FileNotFoundException, UnsupportedEncodingException {
-
-		// readFromExcel();
-
-		File file = new File("C:\\Users\\visra\\Desktop\\samp2.csv");
-		HashMap<String, HashMap<VerseKey, String>> chapters = new HashMap<String, HashMap<VerseKey, String>>();
-		String chapterName = "";
-		String verseLine = "";
+	public static void main(String args[]) throws IOException {
+		
+		Scanner scanner = null;
 		ArrayList<String> lines = new ArrayList<String>();
+		File file = new File("C:\\codebase\\samplewikifeed\\samp2.csv");
+		HashMap<String, HashMap<VerseKey, String>> chapters = new HashMap<String, HashMap<VerseKey, String>>();
 
 		try (FileInputStream fis = new FileInputStream(file);
 				InputStreamReader isr = new InputStreamReader(fis, StandardCharsets.UTF_8);
 				BufferedReader reader = new BufferedReader(isr)) {
 			String str;
 			while ((str = reader.readLine()) != null) {
-				//System.out.println(str);
 				lines.add(str.replace(",$$$", ""));
 			}
 
 		} catch (IOException e) {
-			e.printStackTrace();
+			System.out.println("Exception" + e);
 		}
-		System.out.println("Lines: " + lines);
-		/*Scanner scanner = new Scanner(file);
-		scanner.useDelimiter("$$$");
-		while (scanner.hasNext()) {
-			lines.add(scanner.nextLine().replace("$$$", ""));
-		}
-		scanner.close();*/
+
 		Iterator<String> it = lines.iterator();
-		Scanner scanner2 = null;
 		
 		while (it.hasNext()) {
-			scanner2 = new Scanner(it.next());
-			scanner2.useDelimiter(",##,");
-			chapterName = scanner2.next();
-			if (!chapters.containsKey(chapterName)) {
-				chapters.put(chapterName, new HashMap<VerseKey, String>());
-			}
-			verseLine = scanner2.next();
-			VerseKey key = new VerseKey(scanner2.next(), scanner2.next());
-			chapters.get(chapterName).put(key, verseLine);
+			scanner = new Scanner(it.next());
+			scanner.useDelimiter(",##,");
+			extractVersesByChapter(scanner, chapters);
 		}
+
 		Set<String> keys = chapters.keySet();
 		Iterator<String> itKeys = keys.iterator();
 		while (itKeys.hasNext()) {
-			String itKeysStr = (String) itKeys.next();
-			HashMap<VerseKey, String> map = chapters.get(itKeysStr);
-			ValueComparator bvc = new ValueComparator(map);
-			TreeMap<VerseKey, String> sorted = new TreeMap<>(bvc);
-			sorted.putAll(map);
-			Set<Map.Entry<VerseKey, String>> entries = sorted.entrySet();
 			String previousVerseNo = "";
-			System.out.println("chapter -----> " + itKeysStr);
+			String itKeysStr = (String) itKeys.next();
 			
-			PrintStream printStream = new PrintStream(System.out, true, "UTF-8");
-	        
-	        
-			for (Map.Entry<VerseKey, String> entry : entries) {
-				if (entry.getValue().contains("||")) {
-					printStream.println(entry.getValue() + entry.getKey() + "||");
-					printStream.println("\n\n");
-				} else if (!previousVerseNo.equals(entry.getKey().getVerseNo())) {
-					printStream.println("'''Verse : " + entry.getKey().getVerseNo() + "'''\n\n");
-					printStream.println(entry.getValue() + entry.getKey() + "|");
-					printStream.println("\n");
-				} else {
-					printStream.println(entry.getValue() + entry.getKey() + "|");
-					printStream.println("\n");
-				}
-				previousVerseNo = entry.getKey().getVerseNo();
-			}
+			printVerses(previousVerseNo, itKeysStr, 
+					parseVersesAndSort(chapters, itKeysStr));
 		}
-
-		// System.out.println(chapters.keySet());
 	}
 
-	/*
-	 * public static void readFromExcel() { try { File file = new
-	 * File("C:\\\\Users\\\\visra\\\\Desktop\\\\samp2.xlsx"); // creating a new file
-	 * instance FileInputStream fis = new FileInputStream(file); // obtaining bytes
-	 * from the file // creating Workbook instance that refers to .xlsx file
-	 * XSSFWorkbook wb = new XSSFWorkbook(fis); XSSFSheet sheet = wb.getSheetAt(0);
-	 * // creating a Sheet object to retrieve object
-	 * Iterator<org.apache.poi.ss.usermodel.Row> itr = sheet.iterator(); //
-	 * iterating over excel file
-	 * 
-	 * while (itr.hasNext()) { org.apache.poi.ss.usermodel.Row row = itr.next();
-	 * Iterator<Cell> cellIterator = row.cellIterator(); // iterating over each
-	 * column String rowinString = ""; while (cellIterator.hasNext()) { Cell cell =
-	 * cellIterator.next(); System.out.println(cell.getCellTypeEnum().toString());
-	 * switch (cell.getCellType()) { case Cell.CELL_TYPE_STRING: // field that
-	 * represents string cell type //System.out.print(cell.getStringCellValue() +
-	 * "\t\t\t"); rowinString = rowinString + cell.getStringCellValue(); break; case
-	 * Cell.CELL_TYPE_NUMERIC: // field that represents number cell type
-	 * //System.out.print(cell.getNumericCellValue() + "\t\t\t"); rowinString =
-	 * rowinString + cell.getNumericCellValue(); break; default: } }
-	 * System.out.println("Row Value: " + rowinString); } } catch (Exception e) {
-	 * e.printStackTrace(); } }
+	/**
+	 * @param scanner
+	 * @param chapters
 	 */
+	private static void extractVersesByChapter(Scanner scanner, HashMap<String, HashMap<VerseKey, String>> chapters) {
+		String chapterName;
+		String verseLine;
+		chapterName = scanner.next();
+		if (!chapters.containsKey(chapterName)) {
+			chapters.put(chapterName, new HashMap<VerseKey, String>());
+		}
+		verseLine = scanner.next();
+		VerseKey key = new VerseKey(scanner.next(), scanner.next());
+		chapters.get(chapterName).put(key, verseLine);
+	}
+
+	private static Set<Map.Entry<VerseKey, String>> parseVersesAndSort(
+			HashMap<String, HashMap<VerseKey, String>> chapters, String itKeysStr) {
+		HashMap<VerseKey, String> map = chapters.get(itKeysStr);
+		ValueComparator bvc = new ValueComparator(map);
+		TreeMap<VerseKey, String> sorted = new TreeMap<>(bvc);
+		sorted.putAll(map);
+		Set<Map.Entry<VerseKey, String>> entries = sorted.entrySet();
+		return entries;
+	}
+
+	private static void printVerses(String previousVerseNo, String itKeysStr, Set<Map.Entry<VerseKey, String>> entries)
+			throws IOException {
+		PrintWriter pw = new PrintWriter(System.out);
+		BufferedWriter bw = new BufferedWriter(pw);
+		System.out.println("chapter -----> " + itKeysStr);
+		for (Map.Entry<VerseKey, String> entry : entries) {
+			
+			if (entry.getValue().contains("||")) {
+				bw.write(entry.getValue() + entry.getKey().getVerseNo()+"."+ entry.getKey() + "||");
+				bw.newLine();bw.newLine(); //write("\n\n");
+			} else if (!previousVerseNo.equals(entry.getKey().getVerseNo())) {
+				bw.newLine();bw.newLine();
+				bw.write(entry.getValue() + entry.getKey().getVerseNo()+"."+entry.getKey() + "|");
+				bw.newLine();
+			} else {
+				bw.write(entry.getValue() + entry.getKey().getVerseNo()+"."+ entry.getKey() + "|");
+				bw.newLine();
+			}
+			previousVerseNo = entry.getKey().getVerseNo();
+		}
+	}
+
 }
 
 class ValueComparator implements Comparator<VerseKey> {
@@ -145,7 +129,7 @@ class ValueComparator implements Comparator<VerseKey> {
 
 }
 
-class VerseKey { // implements Comparable<VerseKey>{ //implements Comparator<VerseKey> {
+class VerseKey { 
 
 	int verseNo;
 	int verseLineNo;
